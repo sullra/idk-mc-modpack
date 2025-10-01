@@ -1,2 +1,3 @@
 - update mods
 - add modpack update checker
+- update modpack version in nmpvc to 2025-10-01-r0
