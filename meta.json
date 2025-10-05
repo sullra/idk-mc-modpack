@@ -11,6 +11,16 @@
             }
         },
         "updateType": "minor"
+    },
+    {
+        "id": "2025-10-05-r0",
+        "releasedAt": 1759662619756,
+        "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/uc?export=download&id=1XjqMXAgvUZRQb8Zbs66CdCiTGYOjQ0zz"
+            }
+        },
+        "updateType": "minor"
     }
   ]
 }
